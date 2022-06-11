@@ -12,4 +12,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Google](https:/google.com/) and ![Image](src)
+[Google2](https:/google.com/) and ![Image](src)
