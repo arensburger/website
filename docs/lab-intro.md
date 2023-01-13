@@ -1,6 +1,6 @@
 layout: page
 title: "Arensburger Lab Introduction"
-permalink: https://arensburger.github.io/website/lab-intro.html
+permalink: /lab-intro
 
 !DOCTYPE html>
 <html lang="en">
