@@ -1,3 +1,3 @@
 layout: page
 title: "Arensburger Lab Introduction"
-permalink: /doc/lab-intro.html
+permalink: /docs/lab-intro.html
