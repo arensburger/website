@@ -2,7 +2,7 @@ layout: page
 title: "Arensburger Lab Introduction"
 permalink: /lab-intro
 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <header>
   <h1><center>Introduction to the Arensburger lab</center></h1>
