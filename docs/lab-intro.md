@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Arensburger Lab Introduction"
 permalink: /lab-intro
+---
 
 <!DOCTYPE html>
 <html lang="en">
